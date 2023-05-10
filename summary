@@ -1,0 +1,4 @@
+downloaded and imported heroku for cloud servicing
+and then gunicorn for https server
+
+making procfile for django heroku
